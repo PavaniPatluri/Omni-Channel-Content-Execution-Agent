@@ -1,4 +1,3 @@
-# Omni-Channel-Content-Execution-Agent
 # Omni-Channel Content Execution Agent
 
 ## Overview
